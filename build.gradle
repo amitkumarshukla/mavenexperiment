@@ -49,11 +49,11 @@ ext {
   // ValidateTor Library Info
   libVersionCode = 1
   libVersionName = '1.0.0'
-    libPomUrl = 'https://github.com/amitkumarshukla/[repo_name]'
-    libGithubRepo = 'nisrulz/validatetor'
-    libModuleName = 'validatetor'
+    libPomUrl = 'https://github.com/amitkumarshukla/mavenexperiment'
+    libGithubRepo = 'amitkumarshukla/mavenexperiment'
+    libModuleName = 'validatoramit'
     libModuleDesc = 'Android library for fast and simple string validation.'
-    libBintrayName = 'validatetor'
+    libBintrayName = 'validatoramit'
 
 }
 
